@@ -5,7 +5,7 @@
 ## I'm a College Student, Skateboarder, and Developer!!
 
 - 🔭 I Just posted my portfolio: [Become "A" Real Developer 😜!][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working on sorting algorithm site, that helps people understand them
 - 👯 I’m looking to Build projects with other students
 - 🥅 2021 Goals: Answer as many stackoverflow questions as possible
 - ⚡ Fun fact: I love reading and driving on my driving simulator
