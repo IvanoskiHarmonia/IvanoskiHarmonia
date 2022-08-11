@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="IvanoskiHarmonia's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IvanoskiHarmonia&show_icons=true&hide_border=true" />
+  [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanoskiharmonia)](https://github.com/ivanoskiHarmonia/github-readme-stats)
 
 </details>
 
