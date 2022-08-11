@@ -1,6 +1,6 @@
 ### Hi there, I'm Martin - AKA IvanoskiHarmonia 👋
 
-[![Website](https://img.shields.io/website?label=martinivanoski-portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
+[![Website](https://img.shields.io/website?label=ivanoskiharmonia.github.io/MartinIvanoski-Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
 
 ## I'm a College Student, Skateboarder, and Developer!!
 
