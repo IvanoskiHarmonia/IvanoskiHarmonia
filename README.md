@@ -1,18 +1,20 @@
-### Hi there, I'm Martin - AKA [IvanoskiHarmonia][website] 👋
+### Hi there, I'm Martin - AKA IvanoskiHarmonia 👋
 
-[![Website](https://img.shields.io/website?label=martinivanoski-portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://martinivanoski-portfolio.com)
+[![Website](https://img.shields.io/website?label=martinivanoski-portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
 
 ## I'm a College Student, Skateboarder, and Developer!!
 
-- 🔭 I Just posted my portfolio: [Become "A" Real Developer 😜!][website]!
-- 🌱 I’m currently working on sorting algorithm site, that helps people understand them
-- 👯 I’m looking to Build projects with other students
-- 🥅 2021 Goals: Answer as many stackoverflow questions as possible
-- ⚡ Fun fact: I love reading and driving on my driving simulator
+- 🔭 My portfolio: [Become "A" Real Developer 😜!][website]!
+- 👨‍💻 I’m currently working on a card-game called "Monoton", and doing [100DaysOfCode Challenge][100DaysOfCode].
+- 👯 I’m looking to Build projects with other students.
+- 🥅 2022 Goals: To go through as many classes as possible and find a job as a developer.
+- 🏃‍♂️ Fun fact: I love reading, basketball, and gym.
 
 ### Connect with me:
 
-[<img align="left" alt="martinivanoski-portfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="IvanoskiHarmonia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="IvanoskiHarmonia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="IvanoskiHarmonia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IvanoskiHarmonia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -45,6 +47,9 @@
 
 </details>
 
-[website]: https://martinivanoski-portfolio.com
+[website]: https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/
 [instagram]: https://www.instagram.com/ivanoski.m/
 [linkedin]: https://www.linkedin.com/in/martin-ivanoski-385843195/
+[twitter]: https://twitter.com/Martin_Ivanoski
+[100DaysOfCode]: https://100daysofcode.com/
+[gmail]: mailto:macohiho@gmail.com
