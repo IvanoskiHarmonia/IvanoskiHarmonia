@@ -1,10 +1,12 @@
-### Hi there, I'm Martin - AKA IvanoskiHarmonia 👋
+# Hi there, I'm Martin - AKA IvanoskiHarmonia 👋
 
 [![Website](https://img.shields.io/website?label=ivanoskiharmonia.github.io/MartinIvanoski-Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
 
-## I'm a College Student, Skateboarder, and Developer!!
+-- 
 
-- 🔭 My portfolio: [Become "A" Real Developer 😜!][website]!
+## I'm a Undergrad Computer Science Student, and Software Developer!
+
+- 🔭 This is my new and updated [portfolio][website].
 - 👨‍💻 I’m currently working on a card-game called "Monoton", and doing [100DaysOfCode Challenge][100DaysOfCode].
 - 👯 I’m looking to Build projects with other students.
 - 🥅 2022 Goals: To go through as many classes as possible and find a job as a developer.
