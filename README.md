@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ivanoskiharmonia.github.io/MartinIvanoski-Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
 
--- 
+--- 
 
 ## I'm a Undergrad Computer Science Student, and Software Developer!
 
