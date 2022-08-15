@@ -10,7 +10,7 @@
 - 👨‍💻 I’m currently working on a card-game called "Monoton", and doing [100DaysOfCode Challenge][100DaysOfCode].
 - 👯 I’m looking to Build projects with other students.
 - 🥅 2022 Goals: To go through as many classes as possible and find a job as a developer.
-- 🏃‍♂️ Fun fact: I love reading, basketball, and gym.
+- 🏃‍♂️ Fun activities: I love reading, basketball, and gym.
 
 ### Connect with me:
 
