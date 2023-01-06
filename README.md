@@ -1,26 +1,25 @@
-# Hi there, I'm Martin 👋
+# Howdy, I'm Martin 👋
 
 Thank you for visiting my GitHub account - Welcome!
 
-[![Website](https://img.shields.io/website?label=Portfolio-website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
 
 --- 
 
-## I'm a Undergrad Computer Science Student at FIU!
+## I'm a Undergradate Computer Science Student at FIU!
 
-- 🔭 This is my new, updated [portfolio][website].
-- 👨‍💻 I’m currently working on a dressing [website][adorned], doing [LeetCode][leetcode], and contributing to [freeCodeCamp opensource repository][ffc].
+- 🔭 This is my [portfolio][website].
+- 👨‍💻 I’m currently learning: Java Spring Framework, MVC, and Agile. Problem-Solving on [LeetCode][leetcode], and contributing to [freeCodeCamp][ffc].
 - 👯 I’m looking to Build projects with other students.
-- 🥅 2022 Goals: Continue my push in the gym and contribute as much as I can on open source projects.
+- 🥅 2023 Goals: Improve in professional programming settings, and find summer internship.
 - 🏃‍♂️ Fun activities: I love to read, play basketball, and go to the gym.
 
 ---
 
 ## Connect with me:
 
-[<img align="left" alt="IvanoskiHarmonia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IvanoskiHarmonia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="IvanoskiHarmonia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IvanoskiHarmonia | Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="IvanoskiHarmonia | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
