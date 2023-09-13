@@ -9,10 +9,10 @@ Thank you for visiting my GitHub account - Welcome!
 ## I'm a Undergradate Computer Science Student at FIU!
 
 - 🔭 This is my [portfolio][website].
-- 👨‍💻 I’m currently learning: Java Spring Framework, MVC, and Agile. Problem-Solving on [LeetCode][leetcode], and contributing to [freeCodeCamp][ffc].
-- 👯 I’m looking to Build projects with other students.
+- 👨‍💻 I’m currently learning: Spring, and React. Problem-Solving on [LeetCode][leetcode], and contributing to [freeCodeCamp][ffc].
+- 👯 I’m looking to Build projects with others and contribute.
 - 🥅 2023 Goals: Improve in professional programming settings, and find summer internship.
-- 🏃‍♂️ Fun activities: I love to read, play basketball, and go to the gym.
+- 🏃‍♂️ Fun activities: I love to read, play soccer, and go to the gym.
 
 ---
 
