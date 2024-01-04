@@ -4,15 +4,15 @@ Thank you for visiting my GitHub account - Welcome!
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ivanoskiharmonia.github.io/MartinIvanoski-Portfolio/)
 
---- 
+---
 
-## I'm a Undergradate Computer Science Student at FIU!
+## I'm a Computer Science Graduate from FIU!
 
-- 🔭 This is my [portfolio][website].
-- 👨‍💻 I’m currently learning: Spring, and React. Problem-Solving on [LeetCode][leetcode], and contributing to [freeCodeCamp][ffc].
-- 👯 I’m looking to Build projects with others and contribute.
-- 🥅 2023 Goals: Improve in professional programming settings, and find summer internship.
-- 🏃‍♂️ Fun activities: I love to read, play soccer, and go to the gym.
+- 🔭 Check out my [portfolio][website] updated with recent projects and achievements.
+- 👨‍💻 I’m currently advancing in: Java Spring Framework, MVC, Agile methodologies, and diving into Cloud Technologies. Enhancing problem-solving skills through [LeetCode][leetcode].
+- 👯 I’m aiming to collaborate on innovative projects with tech professionals and communities.
+- 🥅 2024 Goals: Secure a full-time role in software development to begin my professional career. Focus on making impactful contributions to projects and further enhance my technical skills. Expand my professional network and seek mentorship opportunities within the tech industry.
+- 🏃‍♂️ Fun activities: Currently I really enjoy solving leetcode questions, reading, and going to the gym. My newest hobby is running which allows me to clear my mind and stay healthy. I also enjoy playing video games with friends and family.
 
 ---
 
@@ -23,10 +23,13 @@ Thank you for visiting my GitHub account - Welcome!
 
 <br />
 
-
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" /> 
+<img align="left" alt="Spring" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" />
+<img align="left" alt="React" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" />
+<img align="left" alt="Jenkins" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/jenkins-logo-1.png" />
+<img align="left" alt="BitBucket" width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/bitbucket-logo-1.png" />
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -45,7 +48,7 @@ Thank you for visiting my GitHub account - Welcome!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanoskiharmonia)](https://github.com/ivanoskiHarmonia/github-readme-stats)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanoskiharmonia)](https://github.com/ivanoskiHarmonia/github-readme-stats)
 
 </details>
 
@@ -57,3 +60,5 @@ Thank you for visiting my GitHub account - Welcome!
 [adorned]: https://github.com/IvanoskiHarmonia/Adorned
 [ffc]: https://github.com/freeCodeCamp/freeCodeCamp
 [leetcode]: https://leetcode.com/problemset/all/
+
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
